@@ -1,0 +1,8 @@
+{
+  "pReproduction": 1,
+  "pSelection": 1,
+  "pMovement": 5,
+  "spielfeldbreite": 320,
+  "spielfeldhoehe": 320,
+  "initRandom": true
+}

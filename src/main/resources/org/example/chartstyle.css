@@ -1,0 +1,47 @@
+.default-color0.chart-bar {
+    -fx-bar-fill: black;
+}
+
+.default-color1.chart-bar {
+    -fx-bar-fill: blue;
+}
+
+.default-color2.chart-bar {
+    -fx-bar-fill: red;
+}
+
+.default-color3.chart-bar {
+    -fx-bar-fill: yellow;
+}
+
+.default-color4.chart-bar {
+    -fx-bar-fill: orange;
+}
+
+.default-color5.chart-bar {
+    -fx-bar-fill: green;
+}
+
+.default-color0.chart-bar-symbol {
+    -fx-background-color: black; /* Hier können Sie die gewünschte Farbe für das Symbol angeben */
+}
+
+.default-color1.chart-bar-symbol {
+    -fx-background-color: blue;
+}
+
+.default-color2.chart-bar-symbol {
+    -fx-background-color: red;
+}
+
+.default-color3.chart-bar-symbol {
+    -fx-background-color: yellow;
+}
+
+.default-color4.chart-bar-symbol {
+    -fx-background-color: orange;
+}
+
+.default-color5.chart-bar-symbol {
+    -fx-background-color: green;
+}

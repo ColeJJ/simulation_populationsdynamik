@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="pvr_semesterarbeit">
+    <output-path>$PROJECT_DIR$/out/artifacts/pvr_semesterarbeit</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="height" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="pvr_semesterarbeit" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:mac-aarch64:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:mac-aarch64:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:mac-aarch64:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:mac-aarch64:20" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.3" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.3" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.3" />
+    </root>
+  </artifact>
+</component>
